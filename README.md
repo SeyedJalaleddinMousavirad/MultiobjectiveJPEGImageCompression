@@ -22,7 +22,7 @@ Here, we employed two general multi-objective metaheuristic approaches: scalaris
  
 
 ## Documntation
-The source codes belogs to the following paper: 
+The source codes belong to the following paper: 
 
 **Seyed Jalaleddin Mousavirad and Luís A. Alexandre, Energy-Aware JPEG Image Compression: A Multi-Objective Approach**
 
